@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Swaraj Bachu
+Hi, I'm Aryan Tiwari
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
   
  <!--<img src="https://komarev.com/ghpvc/?username=swarajbachu&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="swarajbachu" />-->
@@ -12,7 +12,7 @@ Hi, I'm Swaraj Bachu
   <a href="https://github.com/swarajbachu/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://media.giphy.com/media/IQxvdHgfat9ENGJbEm/giphy.gif" alt="Hmmm!! SO you are trying to copy my readme! Hehe, just find an gif from Giphy.com to change this" width="300" height="210"/>
+<img align="left" src="https://media.giphy.com/media/5FMVTsWyna8fQS1je9/giphy.gif" alt="giphy" width="300" height="210"/>
 
 
 ```
@@ -100,30 +100,11 @@ Swaraj@gesturs.com
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=swarajbachu&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/swarajbachu)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=swarajbachu&theme=material-palenight)](https://github.com/swarajbachu)
+[![](https://github-readme-stats.vercel.app/api?username=arrytiwari&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/swarajbachu)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=arrytiwari&theme=material-palenight)](https://github.com/swarajbachu)
   
 </div>
 
-
-<table>
-<tr>
-  <td align="center">
-  <p align="center">
-  <a href="https://github.com/swarajbachu">
-    <img align="center" height="300px" width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=swarajbachu"/>
-  </a>
-  </td>
-    </td>
-  <td align="center">
-  <a href="https://github.com/swarajbachu">
-    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=swarajbachu&show_icons=true&locale=en&layout=compact&theme=material-palenight" />
-    
-  </a>
-  </td>
-</p>
-</details>
-</table>
 
 
 <p align="center">
