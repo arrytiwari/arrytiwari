@@ -16,14 +16,12 @@ Hi, I'm Aryan Tiwari
 
 
 ```
-https://www.linkedin.com/in/arrytiwari/
+https://x.com/arry_tiwari
 -------------------------
-💻 I am a self taught Front-end Developer and a Data Analyst
-📝 I have a strong interest in Development and Artificial Intelligence
+💻 I am a self taught Front-end,Back-end and smart contract(EVM) developer 
 🔭 I like building Softwares
-🌱 Learning to build tools with react/NextJs
-🌟 Main languages: Python, JavaScript,Typescript,C++
-💖 In a complicated C++(DSA)
+🌟 Main languages:JavaScript,Typescript,Cairo,Rust,Solidity,Python
+💖 In a complicated EVM & DSA.
 ```
 
 
